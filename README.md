@@ -1,8 +1,3 @@
-Here’s a short, clean, professional README.md for your Groq × Gradio project — ideal for your Hugging Face Space page.
-(I’ve added a placeholder for your Space URL — replace it with your actual link.)
-
-⸻
-
 🧠 Groq Chat — Gradio App
 
 A lightweight Gradio chat interface powered by the Groq API and the llama-3.3-70b-versatile model.
